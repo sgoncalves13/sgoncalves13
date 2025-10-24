@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Systems and Computing Engineering student at Universidad de los Andes.<br><br>💻 Full Stack Developer experienced with Java (Spring Boot), .NET, Python, and JavaScript frameworks (React, Angular).<br><br>☁️ Passionate about Cloud Computing (especially AWS and Azure) and DevOps tools like Docker, Kubernetes, and CI/CD.<br><br>🤖 Interested in Artificial Intelligence and data-driven applications.<br><br>🧩 I enjoy designing clean, scalable, and reliable software architectures.<br><br>🚀 Always learning and exploring new technologies to improve how software is built and deployed.</p>
+<p align="left">🎓 Systems and Computing Engineer graduated at Universidad de los Andes.<br><br>💻 Full Stack Developer experienced with Java (Spring Boot), .NET, Python, and JavaScript frameworks (React, Angular).<br><br>☁️ Passionate about Cloud Computing (especially AWS and Azure) and DevOps tools like Docker, Kubernetes, and CI/CD.<br><br>🤖 Interested in Artificial Intelligence and data-driven applications.<br><br>🧩 I enjoy designing clean, scalable, and reliable software architectures.<br><br>🚀 Always learning and exploring new technologies to improve how software is built and deployed.</p>
 
 ###
 
